@@ -56,6 +56,12 @@ public class Main {
         System.out.println(rezylt13);
 
 
+        System.out.println("Задание 7");
+        var weightRemains=boxer2%boxer1;
+        System.out.println(weightRemains);
+
+
+
 
 
 
