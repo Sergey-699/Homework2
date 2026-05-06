@@ -61,6 +61,16 @@ public class Main {
         System.out.println(weightRemains);
 
 
+        System.out.println("Задание 8");
+        var hours=640;
+        var workingHours=8;
+        var rezult14=hours/workingHours;
+        System.out.println("Всего работников в компании"+ rezult14 +"человек");
+        var rezult15=rezult14+94;
+        var rezult16=rezult15*8;
+        System.out.println("Если в компании работает" + rezult15 + " человека, то всего" + rezult16 + "часов работы может быть поделено между сотрудниками");
+
+
 
 
 
