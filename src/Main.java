@@ -10,5 +10,14 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
 
-        }
+        System.out.println("Задание 2");
+        var rezult1 = dog+4;
+        var rezult2=cat+4;
+        var rezult3=paper+4;
+        System.out.println(rezult1);
+        System.out.println(rezult2);
+        System.out.println(rezult3);
+
+
+    }
 }
