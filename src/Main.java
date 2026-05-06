@@ -28,5 +28,14 @@ public class Main {
         System.out.println(rezult6);
 
 
+        System.out.println("Задание 4");
+        var friends=19;
+        System.out.println(friends);
+        var rezult7=friends+2;
+        System.out.println(rezult7);
+        var rezult8=rezult7/7;
+        System.out.println(rezult8);
+
+
     }
 }
