@@ -36,6 +36,19 @@ public class Main {
         var rezult8=rezult7/7;
         System.out.println(rezult8);
 
+        System.out.println("Задание 5");
+        var frog=3.5;
+        System.out.println(frog);
+        var rezult9=frog*10;
+        System.out.println(rezult9);
+        var rezult10=rezult9/3.5;
+        System.out.println(rezult10);
+        var rezult11=rezult10+4;
+        System.out.println(rezult11);
+
+
+
+
 
     }
 }
