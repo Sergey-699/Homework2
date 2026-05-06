@@ -47,6 +47,15 @@ public class Main {
         System.out.println(rezult11);
 
 
+        System.out.println("Задание 6");
+        var boxer1=78.2;
+        var boxer2=82.7;
+        var rezult12=boxer1+boxer2;
+        var rezylt13=boxer2-boxer1;
+        System.out.println(rezult12);
+        System.out.println(rezylt13);
+
+
 
 
 
