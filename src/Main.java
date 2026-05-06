@@ -18,6 +18,7 @@ public class Main {
         System.out.println(rezult2);
         System.out.println(rezult3);
 
+
         System.out.println("Задание 3");
         var rezult4=dog-3.5;
         var rezult5=cat-1.6;
